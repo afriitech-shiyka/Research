@@ -1,0 +1,21 @@
+Angular Vs React Vs Vue
+
+Angular is developed by Google,
+ React by Facebook,
+ Vue is a community-driven open-source project.
+How they function 
+These are three component-focused frameworks, 
+where Angular has a lot of built-in features, 
+Vue has some built-in features, 
+React is very minimalistic. 
+Angular uses TypeScript and splits HTML + TypeScript logic apart, 
+React uses JavaScript and a feature called “JSX” (it combines “HTML” and JavaScript logic), 
+Vue uses regular JavaScript and splits HTML + JavaScript logic apart.
+Vue is easiest to learn, 
+React and Angular are on the same level and a bit more difficult than Vue.
+ All three frameworks offer great startup and runtime performance, 
+hence “performance” will not be your main decision factor.
+All three frameworks are popular but React is a bit more popular than Angular, 
+which in turn is getting used more than Vue.
+Framework Evolution (details): All frameworks are under active development, 
+new features are being 
